@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: minds-nlp
+Version: 1.0
+Summary:            Library for generating NLP datasets for MIL           
+Home-page: https://github.com/jlwoolf/minds-nlp.git
+Author: Jonathan Woolf
+Author-email: jlwoolf@protonmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: unix
+Provides: minds_nlp

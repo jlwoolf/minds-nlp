@@ -1,0 +1,11 @@
+README.md
+setup.py
+minds_nlp/__init__.py
+minds_nlp/create.py
+minds_nlp/model.py
+minds_nlp/preprocess.py
+minds_nlp.egg-info/PKG-INFO
+minds_nlp.egg-info/SOURCES.txt
+minds_nlp.egg-info/dependency_links.txt
+minds_nlp.egg-info/requires.txt
+minds_nlp.egg-info/top_level.txt
